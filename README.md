@@ -54,7 +54,7 @@ body::before {
 
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="left">!!! 鬼怒川グリーンパークのコスモス、2019/09/27(金) !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 鬼怒グリーンパークのコスモス、2019/09/27(金) !!!</marquee></span></h1>
 
 <p align="right"><marquee direction="right" scrollamount="10" width="30%">(^_^)/~torokoid</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -106,5 +106,5 @@ body::before {
 	
 <!-- フッタ -->
  <footer>
- Copyright 2019/09/27 Torokoid-Mibu
+ Copyright 2019/09/27 sajyan
  </footer>
